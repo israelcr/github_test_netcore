@@ -52,6 +52,8 @@ namespace dotnetcore_sample
                 app.UseExceptionHandler("/Home/Error");
             }
 
+            //comment
+
             app.UseStaticFiles();
 
             app.UseMvc(routes =>
