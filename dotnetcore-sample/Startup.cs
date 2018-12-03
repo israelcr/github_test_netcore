@@ -52,7 +52,7 @@ namespace dotnetcore_sample
                 app.UseExceptionHandler("/Home/Error");
             }
 
-            //comment
+            //comment 
 
             app.UseStaticFiles();
 
