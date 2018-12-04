@@ -53,6 +53,7 @@ namespace dotnetcore_sample
             }
 
             //this is a test, to do a commit.
+            //making some changes
 
             app.UseStaticFiles();
 
